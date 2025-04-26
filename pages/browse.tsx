@@ -1,3 +1,4 @@
+import Link from "next/link";
 import Navbar from "../components/Navbar";
 import { trendingPlaces } from "../data/places";
 import { useSession } from "next-auth/react";
@@ -39,6 +40,12 @@ export default function Browse() {
               >
                 ❤️ Favorite
               </button>
+              <Link href={`/destination/${place.name.toLowerCase().replace(/\s+/g, "-")}`} key={place.id}>
+  <div className="bg-white shadow-md p-6 rounded-lg hover:shadow-xl transition cursor-pointer">
+    <h3 className="text-xl font-semibold text-blue-700">{place.name}</h3>
+    <p className="text-gray-600 mt-2">Click here to know more</p>
+  </div>
+</Link>
             </div>
           ))}
         </div>
