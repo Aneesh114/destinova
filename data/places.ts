@@ -2249,5 +2249,1891 @@ export const trendingPlaces = [
       "Antique Shops",
       "Artisan Chocolate Stores"
     ]
+  },
+  {
+    id: 51,
+    name: "Mount Shasta",
+    description: "Majestic volcanic peak in Northern California known for hiking, spiritual retreats, and alpine beauty.",
+    about: "Mount Shasta, a prominent volcanic peak in the Cascade Range of Northern California, is both a geological marvel and a spiritual magnet. Towering over 14,000 feet, it offers alpine adventures, scenic drives, and a mystical aura tied to legends of Lemurians and energy vortices. Outdoor enthusiasts can hike the lower slopes, while spiritual seekers often engage in meditation and wellness retreats in the surrounding serene forests.",
+    lat: 41.4092,
+    lon: -122.1949,
+    climate: "Alpine",
+    landscape: "Mountain, Forest",
+    activities: ["Hiking", "Wellness Retreats", "Snow Activities"],
+    culture: "Spiritual and Indigenous Traditions",
+    budget: "Medium",
+    localAttractions: [
+      "Mount Shasta Summit Trail",
+      "Panther Meadows",
+      "Castle Lake",
+      "Shasta-Trinity National Forest",
+      "Mt. Shasta City Park"
+    ],
+    adventures: [
+      "Mountaineering Expeditions",
+      "Backpacking the Pacific Crest Trail",
+      "Snowshoeing in Winter",
+      "Meditation Retreats",
+      "Stargazing on Clear Nights"
+    ],
+    localCuisines: [
+      "Organic Vegan Meals",
+      "Forest Berry Pastries",
+      "Wild-Caught Trout",
+      "Mountain Pizzas",
+      "Locally Brewed Kombucha"
+    ],
+    shopping: [
+      "Crystal Shops and Spiritual Supplies",
+      "Handmade Artisans Markets",
+      "Mount Shasta Souvenirs",
+      "Wellness Product Stores",
+      "Outdoor Gear Retailers"
+    ]
+  },
+  {
+    id: 52,
+    name: "Great Sand Dunes National Park",
+    description: "Towering sand dunes nestled against the Colorado Rockies, ideal for sandboarding and stargazing.",
+    about: "Located in southern Colorado, Great Sand Dunes National Park boasts the tallest sand dunes in North America, reaching up to 750 feet. These dunes rise dramatically before the Sangre de Cristo Mountains, offering a surreal desert-meets-alpine landscape. Visitors can try sandboarding, splash in Medano Creek, hike forested trails, and witness some of the darkest skies in the U.S. for incredible stargazing.",
+    lat: 37.7929,
+    lon: -105.5943,
+    climate: "High Desert",
+    landscape: "Sand Dunes, Mountains",
+    activities: ["Sandboarding", "Hiking", "Stargazing"],
+    culture: "Ancient Puebloan and Spanish Colonial",
+    budget: "Low",
+    localAttractions: [
+      "High Dune",
+      "Medano Creek",
+      "Zapata Falls",
+      "Dunes Overlook Trail",
+      "Sangre de Cristo Wilderness"
+    ],
+    adventures: [
+      "Sandboarding and Sledding",
+      "4WD Trails on Medano Pass",
+      "Hiking to Zapata Falls",
+      "Photography During Golden Hour",
+      "Night Sky Watching Programs"
+    ],
+    localCuisines: [
+      "Southwestern Tacos",
+      "Colorado Green Chile",
+      "Campfire Skillet Meals",
+      "Local Honey Products",
+      "Churro Desserts"
+    ],
+    shopping: [
+      "Visitor Center Gifts",
+      "Sand Dune Souvenirs",
+      "Southwest Art Galleries",
+      "Camping Supply Shops",
+      "Photography Prints"
+    ]
+  },
+  {
+    id: 53,
+    name: "Taos Pueblo",
+    description: "A UNESCO World Heritage Site featuring a living Native American village of adobe structures.",
+    about: "Taos Pueblo, located in northern New Mexico, is one of the oldest continuously inhabited communities in North America. This UNESCO World Heritage Site features striking multi-story adobe dwellings built over 1,000 years ago by the Tiwa-speaking Native American tribe. Visitors can tour the historic pueblo, learn about indigenous traditions, and admire the dramatic backdrop of the Sangre de Cristo Mountains.",
+    lat: 36.4386,
+    lon: -105.5445,
+    climate: "High Desert",
+    landscape: "Adobe Village, Mountains",
+    activities: ["Cultural Tours", "Photography", "Shopping"],
+    culture: "Tiwa Native American",
+    budget: "Low",
+    localAttractions: [
+      "San Geronimo Chapel",
+      "Rio Pueblo de Taos",
+      "Taos Mountain",
+      "Taos Art Museum",
+      "Historic Pueblo Plaza"
+    ],
+    adventures: [
+      "Guided Cultural Walks",
+      "Traditional Feast Days (Seasonal)",
+      "Indigenous Artisan Workshops",
+      "Scenic Drives Along Enchanted Circle",
+      "Photography of Ancient Adobe Dwellings"
+    ],
+    localCuisines: [
+      "Blue Corn Enchiladas",
+      "Frybread Tacos",
+      "Red Chile Posole",
+      "Wild Berry Muffins",
+      "Pueblo-Style Bison Stew"
+    ],
+    shopping: [
+      "Native Pottery and Drums",
+      "Silver and Turquoise Jewelry",
+      "Locally Woven Blankets",
+      "Taos Art Prints",
+      "Traditional Adobe Figurines"
+    ]
+  },
+  {
+    id: 54,
+    name: "Channel Islands National Park",
+    description: "Isolated marine sanctuary off the California coast, rich in wildlife and rugged coastal beauty.",
+    about: "Channel Islands National Park, located off the coast of Southern California, consists of five ecologically rich islands that offer pristine natural beauty, rare wildlife, and a quiet escape from the mainland. Often called 'America’s Galápagos,' it’s a haven for kayaking, hiking, snorkeling, and observing species found nowhere else on Earth. Limited access keeps the islands relatively untouched and ideal for day trips or overnight camping.",
+    lat: 34.0069,
+    lon: -119.7785,
+    climate: "Mediterranean",
+    landscape: "Island, Cliffs, Marine Sanctuary",
+    activities: ["Kayaking", "Snorkeling", "Wildlife Viewing"],
+    culture: "Chumash Native Heritage",
+    budget: "Medium",
+    localAttractions: [
+      "Anacapa Island Lighthouse",
+      "Painted Cave (Santa Cruz Island)",
+      "Scorpion Anchorage",
+      "Sea Caves and Tide Pools",
+      "Inspiration Point"
+    ],
+    adventures: [
+      "Sea Kayaking Through Caves",
+      "Snorkeling in Kelp Forests",
+      "Camping on Remote Islands",
+      "Whale and Dolphin Watching",
+      "Island Hiking Expeditions"
+    ],
+    localCuisines: [
+      "Fresh Coastal Seafood",
+      "Portable Trail Snacks",
+      "Organic Picnic Fare",
+      "Santa Barbara Shellfish Dishes",
+      "Kombucha and Local Juices"
+    ],
+    shopping: [
+      "Island Visitor Center Merch",
+      "Marine Life Photography Books",
+      "Sustainable Outdoor Gear",
+      "Local Art Inspired by Islands",
+      "Wildlife Observation Tools"
+    ]
+  },
+  {
+    id: 55,
+    name: "Lake Chelan",
+    description: "A glacier-fed lake in Washington State known for its wineries, water sports, and alpine setting.",
+    about: "Lake Chelan, nestled in north-central Washington, stretches 50 miles through glacier-carved valleys. This crystal-clear lake is a hotspot for boating, fishing, and lakeside relaxation. With a charming town on its southern end and wilderness access on the north, Lake Chelan also boasts scenic vineyards, making it a blend of adventure and leisure.",
+    lat: 47.8400,
+    lon: -120.0169,
+    climate: "Alpine",
+    landscape: "Lake, Mountains",
+    activities: ["Boating", "Wine Tasting", "Hiking"],
+    culture: "Pacific Northwest Leisure",
+    budget: "Medium",
+    localAttractions: [
+      "Chelan Riverwalk Park",
+      "Lady of the Lake Ferry",
+      "Slidewaters Waterpark",
+      "Chelan Butte Trail",
+      "Lake Chelan Wineries"
+    ],
+    adventures: [
+      "Jet Skiing and Paddleboarding",
+      "Ferry to Stehekin Village",
+      "Paragliding Over the Lake",
+      "Vineyard Tours and Tastings",
+      "Lakeside Camping and BBQs"
+    ],
+    localCuisines: [
+      "Apple Cider Pork Dishes",
+      "Pacific Trout Plates",
+      "Gourmet Lakefront Burgers",
+      "Artisan Cheese Boards",
+      "Wine-Paired Menus"
+    ],
+    shopping: [
+      "Lake Chelan Wine Shops",
+      "Artisan Soap and Candles",
+      "Water Sport Rental Boutiques",
+      "Local Art Galleries",
+      "Souvenir and T-shirt Shops"
+    ]
+  },
+  {
+    id: 56,
+    name: "Apostle Islands National Lakeshore",
+    description: "A string of pristine islands on Lake Superior with sea caves, historic lighthouses, and kayaking adventures.",
+    about: "Located on the northern tip of Wisconsin, Apostle Islands National Lakeshore encompasses 21 islands scattered across Lake Superior. Renowned for sea caves, dense forests, and sandy beaches, it offers kayaking, sailing, and hiking. In winter, the sea caves become icy cathedrals, attracting adventurers from all over the Midwest.",
+    lat: 46.9783,
+    lon: -90.6626,
+    climate: "Temperate",
+    landscape: "Lake, Islands, Cliffs",
+    activities: ["Kayaking", "Boating", "Camping"],
+    culture: "Native Ojibwe and Maritime",
+    budget: "Low",
+    localAttractions: [
+      "Meyers Beach Sea Caves",
+      "Devil’s Island Lighthouse",
+      "Stockton Island Sandspit",
+      "Bayfield Historic District",
+      "Ice Caves (Winter)"
+    ],
+    adventures: [
+      "Kayaking Through Sea Caves",
+      "Overnight Island Camping",
+      "Sailing Between Islands",
+      "Hiking Julian Bay Trails",
+      "Scuba Diving to Shipwrecks"
+    ],
+    localCuisines: [
+      "Lake Superior Whitefish",
+      "Wild Rice Soup",
+      "Fresh Berry Pies",
+      "Great Lakes Perch",
+      "Locally Smoked Meats"
+    ],
+    shopping: [
+      "Ojibwe Art and Crafts",
+      "Kayak and Outdoor Rentals",
+      "Bayfield Art Galleries",
+      "Lighthouse Memorabilia",
+      "Sea Cave Photography Prints"
+    ]
+  },
+  {
+    id: 58,
+    name: "Cape May",
+    description: "Charming Victorian seaside town in New Jersey known for beaches, birdwatching, and architecture.",
+    about: "Cape May, located at the southern tip of New Jersey, is one of America’s oldest seaside resorts. With colorful Victorian houses, pristine beaches, and a relaxed atmosphere, it's a haven for families and architecture enthusiasts. Birdwatchers flock here during migration seasons, while others enjoy the historic lighthouse, cozy inns, and boutique shopping.",
+    lat: 38.9351,
+    lon: -74.9060,
+    climate: "Coastal",
+    landscape: "Beach, Town",
+    activities: ["Beachgoing", "Birdwatching", "Historic Tours"],
+    culture: "Victorian Era Seaside",
+    budget: "Medium",
+    localAttractions: [
+      "Cape May Lighthouse",
+      "Washington Street Mall",
+      "Cape May Point State Park",
+      "Emlen Physick Estate",
+      "Sunset Beach"
+    ],
+    adventures: [
+      "Whale Watching Cruises",
+      "Birding at Cape May Point",
+      "Sunset Strolls",
+      "Victorian Trolley Tours",
+      "Kayaking in Salt Marshes"
+    ],
+    localCuisines: [
+      "Fresh Crab Cakes",
+      "Lobster Rolls",
+      "Saltwater Taffy",
+      "Boardwalk Fudge",
+      "Seafood Chowder"
+    ],
+    shopping: [
+      "Victorian Antique Shops",
+      "Beachside Boutiques",
+      "Birding Gear Stores",
+      "Cape May Winery Goods",
+      "Handcrafted Jewelry Shops"
+    ]
+  },
+  {
+    id: 59,
+    name: "White Mountains",
+    description: "Northeastern alpine region known for scenic drives, fall foliage, and mountaineering.",
+    about: "The White Mountains, spanning across New Hampshire, are a haven for outdoor lovers year-round. Famous for Mount Washington (the highest peak in the Northeast), scenic railways, and the Kancamagus Highway, the region is particularly magical during fall foliage season. Visitors come for hiking, skiing, waterfall hunting, and exploring quaint mountain towns.",
+    lat: 44.2706,
+    lon: -71.3033,
+    climate: "Alpine",
+    landscape: "Mountains, Forests",
+    activities: ["Hiking", "Skiing", "Leaf Peeping"],
+    culture: "New England Mountain Traditions",
+    budget: "Medium",
+    localAttractions: [
+      "Mount Washington Auto Road",
+      "Flume Gorge",
+      "Kancamagus Scenic Byway",
+      "Conway Scenic Railroad",
+      "Franconia Notch State Park"
+    ],
+    adventures: [
+      "Summiting Mount Washington",
+      "Fall Foliage Drives",
+      "Waterfall Hikes",
+      "Snowmobiling",
+      "Ziplining Over Forest Canopies"
+    ],
+    localCuisines: [
+      "Maple-Glazed Bacon",
+      "Apple Cider Donuts",
+      "Lumberjack Pancakes",
+      "Wild Mushroom Risotto",
+      "New Hampshire Cheddar Sandwiches"
+    ],
+    shopping: [
+      "Maple Syrup Shops",
+      "Hiking and Ski Gear Stores",
+      "Mountain Art Studios",
+      "Handcrafted Wood Goods",
+      "Country General Stores"
+    ]
+  },
+  {
+    id: 60,
+    name: "Hana, Maui",
+    description: "Remote Hawaiian town along a scenic coastal highway with waterfalls, beaches, and lush rainforests.",
+    about: "Hana is a peaceful, tropical paradise located at the end of the famous Hana Highway on Maui. This secluded town is surrounded by waterfalls, black sand beaches, and untouched rainforests. The journey is as magical as the destination, featuring 600+ curves and 50+ bridges. Ideal for a slow-paced, nature-immersive Hawaiian escape.",
+    lat: 20.7553,
+    lon: -155.9940,
+    climate: "Tropical",
+    landscape: "Rainforest, Coastline",
+    activities: ["Sightseeing", "Hiking", "Swimming"],
+    culture: "Native Hawaiian",
+    budget: "High",
+    localAttractions: [
+      "Black Sand Beach (Waianapanapa)",
+      "Seven Sacred Pools (Ohe'o Gulch)",
+      "Hamoa Beach",
+      "Hana Lava Tube",
+      "Hana Cultural Center"
+    ],
+    adventures: [
+      "Road to Hana Drive",
+      "Waterfall Swimming",
+      "Rainforest Hiking",
+      "Exploring Lava Tubes",
+      "Sunrise at Haleakalā (Nearby)"
+    ],
+    localCuisines: [
+      "Poke Bowls",
+      "Banana Bread",
+      "Tropical Smoothies",
+      "Fresh Ahi Tacos",
+      "Coconut-Mango Ice Cream"
+    ],
+    shopping: [
+      "Handwoven Hawaiian Baskets",
+      "Local Fruit Stands",
+      "Aloha Apparel",
+      "Native Hawaiian Jewelry",
+      "Cultural Artifacts and Souvenirs"
+    ]
+  },
+  {
+    id: 61,
+    name: "Crater Lake National Park",
+    description: "A mesmerizing deep blue lake formed within the caldera of a collapsed volcano in Oregon.",
+    about: "Crater Lake National Park in southern Oregon features the deepest lake in the U.S., formed by a volcanic eruption over 7,000 years ago. Surrounded by cliffs and forested ridges, the lake is known for its intense blue color and water purity. The rim drive offers panoramic views, and Wizard Island invites exploration.",
+    lat: 42.9446,
+    lon: -122.1090,
+    climate: "Alpine",
+    landscape: "Caldera Lake, Forests, Cliffs",
+    activities: ["Sightseeing", "Hiking", "Boating"],
+    culture: "Geological and Indigenous History",
+    budget: "Medium",
+    localAttractions: [
+      "Rim Drive Scenic Loop",
+      "Wizard Island",
+      "Cleetwood Cove Trail",
+      "Crater Lake Lodge",
+      "Phantom Ship Island"
+    ],
+    adventures: [
+      "Hiking to Cleetwood Cove",
+      "Boat Ride to Wizard Island",
+      "Snowshoeing in Winter",
+      "Stargazing Events",
+      "Photography of Crystal Waters"
+    ],
+    localCuisines: [
+      "Forest Mushroom Stews",
+      "Smoked Salmon",
+      "Oregon Berry Pies",
+      "Craft Coffee from Crater Café",
+      "Wild Game Jerky"
+    ],
+    shopping: [
+      "Geology Books & Maps",
+      "Crater Lake Apparel",
+      "Local Artisan Pottery",
+      "Volcanic Rock Jewelry",
+      "Hand-Carved Hiking Sticks"
+    ]
+  },
+  {
+    id: 62,
+    name: "Sedona",
+    description: "A red-rock desert town known for its vortexes, art scene, and stunning canyon trails.",
+    about: "Sedona, nestled among Arizona’s striking red sandstone formations, is both a geological wonder and a spiritual destination. Known for its vortex energy sites, scenic hiking trails, and vibrant arts culture, it's a favorite spot for wellness seekers, nature lovers, and photographers alike.",
+    lat: 34.8697,
+    lon: -111.7610,
+    climate: "Desert",
+    landscape: "Red Rocks, Canyons, Forests",
+    activities: ["Hiking", "Spiritual Retreats", "Art Shopping"],
+    culture: "Native American & New Age Spiritualism",
+    budget: "Medium",
+    localAttractions: [
+      "Cathedral Rock",
+      "Chapel of the Holy Cross",
+      "Bell Rock",
+      "Tlaquepaque Arts & Shopping Village",
+      "Oak Creek Canyon"
+    ],
+    adventures: [
+      "Red Rock Jeep Tours",
+      "Energy Vortex Hiking",
+      "Hot Air Balloon Rides",
+      "Slide Rock Swimming",
+      "Sunset Yoga Overlook"
+    ],
+    localCuisines: [
+      "Southwest Grilled Trout",
+      "Cactus Fries",
+      "Mesquite-Smoked Meats",
+      "Prickly Pear Margaritas",
+      "Organic Vegan Bowls"
+    ],
+    shopping: [
+      "Crystal Shops",
+      "Southwest Native Pottery",
+      "Handwoven Tapestries",
+      "Spiritual Healing Books",
+      "Local Photography & Paintings"
+    ]
+  },
+  {
+    id: 63,
+    name: "Galena",
+    description: "A 19th-century mining town in Illinois, preserved with historic charm and scenic river views.",
+    about: "Galena is a quaint Midwestern town that looks frozen in time with its well-preserved 19th-century buildings, cobblestone streets, and rolling hills. Nestled along the Galena River, this destination is ideal for romantic getaways, historic tours, and wine tasting weekends.",
+    lat: 42.4167,
+    lon: -90.4290,
+    climate: "Temperate",
+    landscape: "River Valley, Hills, Historic Town",
+    activities: ["Antiquing", "Walking Tours", "Wine Tasting"],
+    culture: "American Midwest & Civil War-Era",
+    budget: "Low",
+    localAttractions: [
+      "Ulysses S. Grant Home",
+      "Downtown Main Street",
+      "Galena Cellars Vineyard",
+      "Belvedere Mansion",
+      "Galena History Museum"
+    ],
+    adventures: [
+      "Trolley Ghost Tours",
+      "Kayaking the Galena River",
+      "Hot Air Balloon Rides",
+      "Snowshoeing in Winter",
+      "Farm-to-Table Dining Experiences"
+    ],
+    localCuisines: [
+      "Local Winery Cheese Plates",
+      "Classic American Diner Food",
+      "Hand-Tossed Brick Oven Pizza",
+      "Apple Pie from Country Bakeries",
+      "Craft Beers & Sausages"
+    ],
+    shopping: [
+      "Antique Furniture Stores",
+      "Wine Boutiques",
+      "Civil War Memorabilia",
+      "Handmade Soaps",
+      "Artisan Chocolates"
+    ]
+  },
+  {
+    id: 64,
+    name: "Block Island",
+    description: "A quaint island off the coast of Rhode Island, famous for its beaches, bluffs, and lighthouses.",
+    about: "Block Island offers a serene escape just 13 miles south of the Rhode Island coast. With sandy beaches, rolling green hills, and iconic lighthouses, it’s ideal for biking, beachcombing, and birdwatching. The island's relaxed vibe attracts travelers looking for a low-key coastal retreat.",
+    lat: 41.1714,
+    lon: -71.5586,
+    climate: "Coastal",
+    landscape: "Beaches, Cliffs, Meadows",
+    activities: ["Biking", "Fishing", "Swimming"],
+    culture: "New England Coastal Village",
+    budget: "Medium",
+    localAttractions: [
+      "Mohegan Bluffs",
+      "North & Southeast Lighthouses",
+      "Old Harbor Historic District",
+      "Clayhead Trail",
+      "The Nature Conservancy Trails"
+    ],
+    adventures: [
+      "Cliff Hiking",
+      "Sunset Sailing Tours",
+      "Snorkeling Off the Coast",
+      "Biking the Island Loop",
+      "Shell Collecting"
+    ],
+    localCuisines: [
+      "Block Island Oysters",
+      "Clam Chowder",
+      "Stuffed Quahogs",
+      "Lobster Rolls",
+      "Lemon Blueberry Pancakes"
+    ],
+    shopping: [
+      "Nautical Gift Shops",
+      "Beachwear Boutiques",
+      "Island-Made Jewelry",
+      "Coastal Photography",
+      "Handcrafted Shell Décor"
+    ]
+  },
+  {
+    id: 65,
+    name: "Mount Desert Island",
+    description: "Home to Bar Harbor and Acadia National Park, this island offers rugged coastlines, mountains, and lobster feasts.",
+    about: "Mount Desert Island is the largest island off the coast of Maine and is best known for hosting Acadia National Park and the bustling town of Bar Harbor. Visitors enjoy ocean vistas, mountain hikes, carriage roads, and New England seafood with scenic charm in every direction.",
+    lat: 44.3386,
+    lon: -68.2733,
+    climate: "Coastal",
+    landscape: "Mountains, Forests, Shoreline",
+    activities: ["Hiking", "Cycling", "Lobster Dining"],
+    culture: "New England Fishing & Outdoor Culture",
+    budget: "Medium",
+    localAttractions: [
+      "Cadillac Mountain",
+      "Jordan Pond",
+      "Thunder Hole",
+      "Carriage Roads",
+      "Bar Harbor Waterfront"
+    ],
+    adventures: [
+      "Sunrise on Cadillac Mountain",
+      "Biking the Carriage Roads",
+      "Whale Watching Cruises",
+      "Paddleboarding in Echo Lake",
+      "Tidepooling at Sand Beach"
+    ],
+    localCuisines: [
+      "Maine Lobster",
+      "Blueberry Jam & Pie",
+      "Clam Bake Meals",
+      "Whoopie Pies",
+      "Chowder & Biscuits"
+    ],
+    shopping: [
+      "Maine Maple Syrup",
+      "Local Artist Galleries",
+      "Seaside Apparel",
+      "Handcrafted Woodworks",
+      "Nature Photography Prints"
+    ]
+  },
+  {
+    id: 66,
+    name: "Mackinac Island",
+    description: "A car-free island in Lake Huron known for horse-drawn carriages, Victorian architecture, and famous fudge.",
+    about: "Mackinac Island transports visitors to a bygone era with no cars, charming horse-drawn carriages, and Victorian-style buildings. Nestled in Lake Huron between Michigan's Upper and Lower Peninsulas, the island offers scenic coastal trails, historic forts, and a famously sweet fudge scene.",
+    lat: 45.8492,
+    lon: -84.6189,
+    climate: "Temperate",
+    landscape: "Island, Cliffs, Forest Trails",
+    activities: ["Biking", "Historical Tours", "Fudge Sampling"],
+    culture: "Victorian Americana",
+    budget: "Medium",
+    localAttractions: [
+      "Fort Mackinac",
+      "Arch Rock",
+      "The Grand Hotel",
+      "Mackinac Island State Park",
+      "Main Street Shops"
+    ],
+    adventures: [
+      "Cycling the Island Loop",
+      "Kayaking Lake Huron",
+      "Horse-Drawn Carriage Rides",
+      "Exploring the Butterfly House",
+      "Hiking to Skull Cave"
+    ],
+    localCuisines: [
+      "Whitefish Sandwiches",
+      "Mackinac Fudge",
+      "Cherry Chicken Salad",
+      "Homemade Taffy",
+      "Fresh Berry Smoothies"
+    ],
+    shopping: [
+      "Fudge Shops",
+      "Historic Postcards",
+      "Victorian Souvenirs",
+      "Local Jams & Syrups",
+      "Horse-Themed Crafts"
+    ]
+  },
+  {
+    id: 67,
+    name: "Olympic National Park",
+    description: "A wildly diverse park featuring mountains, rainforests, alpine lakes, and rugged Pacific coastline.",
+    about: "Olympic National Park, located on Washington’s Olympic Peninsula, is a UNESCO World Heritage Site known for its ecological diversity. With snow-capped peaks, lush rainforests, and pristine beaches, visitors can explore a world of contrasting ecosystems within a single trip.",
+    lat: 47.8021,
+    lon: -123.6044,
+    climate: "Temperate Rainforest",
+    landscape: "Mountains, Rainforests, Beaches",
+    activities: ["Hiking", "Camping", "Wildlife Watching"],
+    culture: "Pacific Northwest Natural Heritage",
+    budget: "Medium",
+    localAttractions: [
+      "Hoh Rainforest",
+      "Hurricane Ridge",
+      "Ruby Beach",
+      "Lake Crescent",
+      "Sol Duc Hot Springs"
+    ],
+    adventures: [
+      "Rainforest Trekking",
+      "Backpacking the Enchanted Valley",
+      "Whale Watching from Rialto Beach",
+      "Snowshoeing Hurricane Ridge",
+      "Hot Spring Soaks"
+    ],
+    localCuisines: [
+      "Dungeness Crab",
+      "Salmon Chowder",
+      "Wild Berry Pies",
+      "Cedar-Planked Fish",
+      "Mushroom Risotto with Foraged Fungi"
+    ],
+    shopping: [
+      "Locally-Made Hiking Gear",
+      "Nature Photography",
+      "Pacific Northwest Wood Art",
+      "Sustainable Clothing",
+      "Handmade Pottery"
+    ]
+  },
+  {
+    id: 68,
+    name: "Charleston",
+    description: "A charming Southern city with cobblestone streets, antebellum houses, and coastal cuisine.",
+    about: "Charleston combines historic charm with Southern hospitality and coastal beauty. Known for its pastel-colored houses, Civil War-era landmarks, and a vibrant food scene, it's perfect for walking tours, romantic getaways, and cultural exploration.",
+    lat: 32.7765,
+    lon: -79.9311,
+    climate: "Coastal",
+    landscape: "Historic City, Waterfronts, Plantations",
+    activities: ["Sightseeing", "Historical Tours", "Dining"],
+    culture: "Southern & Colonial American",
+    budget: "Medium",
+    localAttractions: [
+      "The Battery",
+      "Rainbow Row",
+      "Charleston City Market",
+      "Fort Sumter",
+      "Magnolia Plantation and Gardens"
+    ],
+    adventures: [
+      "Ghost Tours of Old Charleston",
+      "Boat Tour in Charleston Harbor",
+      "Horse-Drawn Carriage Rides",
+      "Kayaking in Shem Creek",
+      "Sunset Sailboat Cruises"
+    ],
+    localCuisines: [
+      "Shrimp and Grits",
+      "She-Crab Soup",
+      "Fried Green Tomatoes",
+      "Lowcountry Boil",
+      "Sweet Tea Glazed Chicken"
+    ],
+    shopping: [
+      "Sweetgrass Baskets",
+      "Southern Spices & Sauces",
+      "Local Art Galleries",
+      "Vintage Boutiques",
+      "Historic Books & Prints"
+    ]
+  },
+  {
+    id: 69,
+    name: "Sandpoint",
+    description: "A hidden gem in northern Idaho with a massive lake, ski slopes, and forested tranquility.",
+    about: "Sandpoint is located on the shores of Lake Pend Oreille, Idaho’s largest lake, and surrounded by the Selkirk Mountains. It offers year-round outdoor activities, from skiing at Schweitzer Mountain to summer lake adventures, making it a nature lover’s paradise.",
+    lat: 48.2766,
+    lon: -116.5535,
+    climate: "Temperate",
+    landscape: "Lake, Mountains, Forest",
+    activities: ["Skiing", "Boating", "Fishing"],
+    culture: "Mountain Town Lifestyle",
+    budget: "Low to Medium",
+    localAttractions: [
+      "Lake Pend Oreille",
+      "Schweitzer Mountain Resort",
+      "Sandpoint City Beach",
+      "Pend d’Oreille Winery",
+      "Panida Theater"
+    ],
+    adventures: [
+      "Winter Skiing & Snowboarding",
+      "Wakeboarding on the Lake",
+      "Mountain Biking Trails",
+      "Fishing & Fly Casting",
+      "Scenic Chairlift Rides"
+    ],
+    localCuisines: [
+      "Lake Trout Dishes",
+      "Bison Burgers",
+      "Idaho Huckleberry Jam",
+      "Hearty Mountain Stews",
+      "Farm-to-Table Veggie Bowls"
+    ],
+    shopping: [
+      "Craft Breweries",
+      "Hand-Knit Wool Clothing",
+      "Mountain-Themed Decor",
+      "Locally-Made Wines",
+      "Nature Photography Prints"
+    ]
+  },
+  {
+    id: 70,
+    name: "Savannah",
+    description: "A beautifully preserved city known for its oak-lined streets, haunted mansions, and Southern hospitality.",
+    about: "Savannah enchants visitors with moss-draped oaks, cobblestone squares, and antebellum architecture. This walkable city blends history with a touch of the supernatural, and is perfect for romantic escapes, history buffs, and food lovers alike.",
+    lat: 32.0809,
+    lon: -81.0912,
+    climate: "Coastal",
+    landscape: "Historic City, Gardens, Riverfront",
+    activities: ["Walking Tours", "Ghost Tours", "Dining"],
+    culture: "Southern Gothic & Colonial",
+    budget: "Medium",
+    localAttractions: [
+      "Forsyth Park",
+      "River Street",
+      "Bonaventure Cemetery",
+      "Wormsloe Historic Site",
+      "Savannah Historic District"
+    ],
+    adventures: [
+      "Haunted Pub Crawls",
+      "Savannah Riverboat Cruises",
+      "Horse Carriage Tours",
+      "Gothic Walking Tours",
+      "Picnicking in Forsyth Park"
+    ],
+    localCuisines: [
+      "Fried Chicken & Biscuits",
+      "Savannah Red Rice",
+      "Pecan Pralines",
+      "Shrimp Gumbo",
+      "Southern Peach Cobbler"
+    ],
+    shopping: [
+      "Antique Bookstores",
+      "Local Artisan Markets",
+      "Southern Spices & Sauces",
+      "Ghost-Themed Souvenirs",
+      "Handmade Soaps"
+    ]
+  },
+  {
+    id: 71,
+    name: "Sedona",
+    description: "A red rock paradise known for spiritual vortexes, desert hikes, and breathtaking sunsets.",
+    about: "Sedona is nestled among striking red sandstone formations and is a hub for wellness, spirituality, and outdoor adventure. Visitors are drawn to its vortex energy centers, stunning hiking trails, and scenic views that glow brilliantly during sunrise and sunset.",
+    lat: 34.8697,
+    lon: -111.7609,
+    climate: "Desert",
+    landscape: "Red Rocks, Canyons, Desert Valleys",
+    activities: ["Hiking", "Spiritual Retreats", "Stargazing"],
+    culture: "New Age & Southwestern",
+    budget: "Medium",
+    localAttractions: [
+      "Cathedral Rock",
+      "Chapel of the Holy Cross",
+      "Bell Rock Trail",
+      "Tlaquepaque Arts & Shopping Village",
+      "Oak Creek Canyon"
+    ],
+    adventures: [
+      "Red Rock Jeep Tours",
+      "Hot Air Balloon Rides",
+      "Energy Vortex Hikes",
+      "Mountain Biking in Red Rock State Park",
+      "Meditation in Boynton Canyon"
+    ],
+    localCuisines: [
+      "Southwest Tacos",
+      "Mesquite-Grilled Steaks",
+      "Cactus Fries",
+      "Prickly Pear Margaritas",
+      "Organic Vegan Bowls"
+    ],
+    shopping: [
+      "Crystal Shops",
+      "Handmade Jewelry",
+      "Native American Pottery",
+      "Spiritual Souvenirs",
+      "Desert Art Prints"
+    ]
+  },
+  {
+    id: 72,
+    name: "Bar Harbor",
+    description: "A coastal town on Mount Desert Island and the gateway to Acadia National Park.",
+    about: "Bar Harbor offers charming New England vibes, fresh lobster, and easy access to Acadia National Park. With breathtaking coastal cliffs, forested trails, and whale-watching tours, it’s a serene destination for nature lovers and seafood fans alike.",
+    lat: 44.3876,
+    lon: -68.2039,
+    climate: "Coastal",
+    landscape: "Islands, Cliffs, Forests",
+    activities: ["Hiking", "Boating", "Seafood Tasting"],
+    culture: "Maritime New England",
+    budget: "Medium",
+    localAttractions: [
+      "Acadia National Park",
+      "Cadillac Mountain",
+      "Bar Island Trail",
+      "Thunder Hole",
+      "Bar Harbor Whale Museum"
+    ],
+    adventures: [
+      "Whale Watching",
+      "Kayaking Frenchman Bay",
+      "Biking the Carriage Roads",
+      "Sunrise from Cadillac Mountain",
+      "Tidepooling at Sand Beach"
+    ],
+    localCuisines: [
+      "Lobster Rolls",
+      "Clam Chowder",
+      "Blueberry Pie",
+      "Scallops & Shellfish",
+      "Buttery Popovers"
+    ],
+    shopping: [
+      "Lobster-Themed Gifts",
+      "Blueberry Jams",
+      "Nautical Home Decor",
+      "Local Art Galleries",
+      "Handmade Soaps"
+    ]
+  },
+  {
+    id: 73,
+    name: "Park City",
+    description: "A mountain resort town famed for skiing, film festivals, and alpine adventure.",
+    about: "Park City blends outdoor thrills with arts and culture. Home to the Sundance Film Festival and two world-class ski resorts, it's also rich in mining history, upscale dining, and year-round mountain sports.",
+    lat: 40.6461,
+    lon: -111.4980,
+    climate: "Alpine",
+    landscape: "Mountains, Snow, Forests",
+    activities: ["Skiing", "Snowboarding", "Film & Culture"],
+    culture: "Mountain Resort & Arts Scene",
+    budget: "High",
+    localAttractions: [
+      "Park City Mountain Resort",
+      "Deer Valley Resort",
+      "Sundance Film Festival",
+      "Historic Main Street",
+      "Utah Olympic Park"
+    ],
+    adventures: [
+      "Downhill Skiing",
+      "Snowmobiling",
+      "Hiking in Wasatch Mountains",
+      "Ziplining",
+      "Hot Air Balloon Rides"
+    ],
+    localCuisines: [
+      "Utah Elk Steaks",
+      "Craft Burgers",
+      "Rocky Mountain Trout",
+      "Gourmet Mac & Cheese",
+      "Ski Lodge Hot Chocolate"
+    ],
+    shopping: [
+      "Luxury Ski Gear",
+      "Film Festival Memorabilia",
+      "Mountain Jewelry",
+      "Outdoor Adventure Stores",
+      "Craft Breweries"
+    ]
+  },
+  {
+    id: 74,
+    name: "Cape Cod",
+    description: "A classic summer getaway featuring lighthouses, sandy shores, seafood shacks, and quaint towns.",
+    about: "Cape Cod is a sandy peninsula with historic villages, scenic bike trails, and stunning beaches. Loved for its laid-back charm, it’s ideal for family vacations, romantic retreats, or seafood lovers looking for fresh-off-the-boat meals.",
+    lat: 41.6688,
+    lon: -70.2962,
+    climate: "Coastal",
+    landscape: "Beaches, Dunes, Harbors",
+    activities: ["Beachcombing", "Boating", "Cycling"],
+    culture: "New England Maritime",
+    budget: "Medium",
+    localAttractions: [
+      "Cape Cod National Seashore",
+      "Provincetown",
+      "Martha's Vineyard",
+      "Nauset Light",
+      "Shining Sea Bikeway"
+    ],
+    adventures: [
+      "Whale Watching Cruises",
+      "Kayaking Salt Marshes",
+      "Seaside Biking",
+      "Exploring Cranberry Bogs",
+      "Beach Bonfires"
+    ],
+    localCuisines: [
+      "Lobster Mac & Cheese",
+      "Fried Clams",
+      "Chowder Bread Bowls",
+      "Saltwater Taffy",
+      "Cranberry Baked Goods"
+    ],
+    shopping: [
+      "Seaside Gift Shops",
+      "Cottage Decor",
+      "Handcrafted Candles",
+      "Cape Cod Apparel",
+      "Local Art Markets"
+    ]
+  },
+  {
+    id: 76,
+    name: "Taos",
+    description: "An artsy mountain town steeped in Native American heritage, adobe architecture, and high desert mystique.",
+    about: "Taos offers a rare blend of natural beauty and rich culture. With its historic pueblos, renowned art colonies, and ski resorts nestled in the Sangre de Cristo Mountains, it's a soulful destination perfect for artists, adventurers, and culture seekers.",
+    lat: 36.4072,
+    lon: -105.5731,
+    climate: "Mountain Desert",
+    landscape: "Mountains, Desert Plains, Adobe Villages",
+    activities: ["Art Exploration", "Skiing", "Cultural Tours"],
+    culture: "Native American & Southwestern",
+    budget: "Medium",
+    localAttractions: [
+      "Taos Pueblo",
+      "Rio Grande Gorge Bridge",
+      "Taos Ski Valley",
+      "Kit Carson Home & Museum",
+      "Harwood Museum of Art"
+    ],
+    adventures: [
+      "Hot Air Balloon Rides",
+      "Whitewater Rafting the Rio Grande",
+      "Backcountry Skiing",
+      "Hiking Wheeler Peak",
+      "Exploring Earthship Biotecture"
+    ],
+    localCuisines: [
+      "Green Chile Stew",
+      "Blue Corn Enchiladas",
+      "Stuffed Sopapillas",
+      "Frito Pie",
+      "Posole"
+    ],
+    shopping: [
+      "Southwestern Jewelry",
+      "Adobe Pottery",
+      "Indigenous Artworks",
+      "Handwoven Textiles",
+      "Local Folk Art"
+    ]
+  },
+  {
+    id: 77,
+    name: "Key West",
+    description: "The southernmost point in the U.S., known for its quirky charm, pastel streets, and stunning sunsets.",
+    about: "Key West is a laid-back island paradise in the Florida Keys offering everything from lively nightlife to serene beaches and coral reefs. It's a haven for sunseekers, snorkelers, and lovers of vibrant island culture.",
+    lat: 24.5551,
+    lon: -81.7800,
+    climate: "Tropical",
+    landscape: "Islands, Coral Reefs, Palm-Lined Streets",
+    activities: ["Snorkeling", "Sunset Watching", "Bar Crawls"],
+    culture: "Island Caribbean-Inspired",
+    budget: "Medium to High",
+    localAttractions: [
+      "Southernmost Point Buoy",
+      "Duval Street",
+      "Ernest Hemingway Home",
+      "Mallory Square",
+      "Dry Tortugas National Park"
+    ],
+    adventures: [
+      "Scuba Diving Coral Reefs",
+      "Jet Ski Tours",
+      "Kayaking the Mangroves",
+      "Parasailing Over the Ocean",
+      "Sunset Catamaran Cruises"
+    ],
+    localCuisines: [
+      "Key Lime Pie",
+      "Cuban Sandwiches",
+      "Conch Fritters",
+      "Seafood Paella",
+      "Rum Punch"
+    ],
+    shopping: [
+      "Beachwear Boutiques",
+      "Island Souvenirs",
+      "Hand-Rolled Cigars",
+      "Art from Local Galleries",
+      "Key Lime Products"
+    ]
+  },
+  {
+    id: 78,
+    name: "Glacier National Park",
+    description: "A pristine wilderness of alpine meadows, turquoise lakes, and active glaciers along the Canadian border.",
+    about: "Known as the 'Crown of the Continent,' Glacier National Park offers over 700 miles of hiking trails, stunning mountain scenery, and an untouched ecosystem. It's a dream for nature lovers and backcountry explorers.",
+    lat: 48.6966,
+    lon: -113.7183,
+    climate: "Alpine",
+    landscape: "Glaciers, Mountains, Alpine Lakes",
+    activities: ["Hiking", "Wildlife Watching", "Photography"],
+    culture: "Wilderness & Conservation",
+    budget: "Low to Medium",
+    localAttractions: [
+      "Going-to-the-Sun Road",
+      "Lake McDonald",
+      "Grinnell Glacier",
+      "Logan Pass",
+      "Avalanche Lake"
+    ],
+    adventures: [
+      "Hiking the Highline Trail",
+      "Backcountry Camping",
+      "Fishing in Ice-Cold Rivers",
+      "Wildlife Spotting (Bears, Goats, Moose)",
+      "Snowshoeing in Winter"
+    ],
+    localCuisines: [
+      "Bison Burgers",
+      "Montana Trout",
+      "Berry Pies",
+      "Campfire Chili",
+      "Fresh Jerky"
+    ],
+    shopping: [
+      "Wilderness Maps & Gear",
+      "Photography Books",
+      "Glacier Apparel",
+      "Native American Beads",
+      "Nature-Themed Woodwork"
+    ]
+  },
+  {
+    id: 80,
+    name: "Mount Rainier",
+    description: "A towering volcano surrounded by wildflower meadows, alpine trails, and glacial rivers.",
+    about: "Mount Rainier National Park showcases one of the most iconic peaks in the U.S., rising over 14,000 feet above sea level. With cascading waterfalls, rugged trails, and year-round snow, it draws climbers, photographers, and hikers alike.",
+    lat: 46.8523,
+    lon: -121.7603,
+    climate: "Alpine",
+    landscape: "Volcanoes, Glaciers, Wildflower Fields",
+    activities: ["Hiking", "Mountaineering", "Snowshoeing"],
+    culture: "Pacific Northwest Wilderness",
+    budget: "Low to Medium",
+    localAttractions: [
+      "Paradise Visitor Center",
+      "Skyline Trail",
+      "Sunrise Lookout",
+      "Nisqually Glacier",
+      "Christine Falls"
+    ],
+    adventures: [
+      "Summit Climbing",
+      "Snowshoe Hikes",
+      "Wildflower Walks",
+      "Backpacking the Wonderland Trail",
+      "Night Sky Photography"
+    ],
+    localCuisines: [
+      "Rainier Cherries",
+      "Pacific Salmon",
+      "Campfire Coffee",
+      "Forest Berry Muffins",
+      "Locally Smoked Meats"
+    ],
+    shopping: [
+      "Nature Prints",
+      "Hiking Gear",
+      "National Park Souvenirs",
+      "Eco-Friendly Apparel",
+      "Local Jams and Honey"
+    ]
+  },
+  {
+    id: 81,
+    name: "Lake Placid",
+    description: "An Olympic village nestled in the Adirondacks, combining alpine adventure with serene lakeside charm.",
+    about: "Lake Placid is famous for hosting the Winter Olympics twice, but its natural beauty and year-round outdoor activities make it a magnet for adventurers and families alike. From skiing to canoeing to leaf-peeping, it's a classic Northeast escape.",
+    lat: 44.2795,
+    lon: -73.9799,
+    climate: "Temperate",
+    landscape: "Lakes, Mountains, Forests",
+    activities: ["Skiing", "Canoeing", "Historic Tours"],
+    culture: "Mountain Americana",
+    budget: "Medium",
+    localAttractions: [
+      "Olympic Center & Museum",
+      "Mirror Lake",
+      "Whiteface Mountain",
+      "High Falls Gorge",
+      "Adirondack Experience Museum"
+    ],
+    adventures: [
+      "Skiing Whiteface",
+      "Ice Skating on Mirror Lake",
+      "Hiking Mount Marcy",
+      "Ziplining Adventure Parks",
+      "Kayaking the Saranac Lakes"
+    ],
+    localCuisines: [
+      "Maple Glazed Ham",
+      "Adirondack Trout",
+      "Wild Game Stews",
+      "Locally Brewed Ales",
+      "Apple Cider Donuts"
+    ],
+    shopping: [
+      "Rustic Cabin Decor",
+      "Olympic Memorabilia",
+      "Maple Syrup Products",
+      "Outdoor Gear",
+      "Craft Chocolates"
+    ]
+  },
+  {
+    id: 82,
+    name: "Joshua Tree",
+    description: "An otherworldly desert landscape filled with surreal rock formations, starlit skies, and twisted yucca trees.",
+    about: "Joshua Tree National Park is a spiritual and visual retreat known for its stark desert beauty, climbing spots, and stargazing. With its unique flora, boulder-strewn trails, and creative desert community, it's a haven for dreamers and adventurers.",
+    lat: 33.8734,
+    lon: -115.9010,
+    climate: "Desert",
+    landscape: "Rock Formations, Cactus Gardens, Desert Flats",
+    activities: ["Rock Climbing", "Stargazing", "Nature Photography"],
+    culture: "Bohemian Desert",
+    budget: "Low to Medium",
+    localAttractions: [
+      "Cholla Cactus Garden",
+      "Hidden Valley Trail",
+      "Keys View",
+      "Noah Purifoy Outdoor Art Museum",
+      "Skull Rock"
+    ],
+    adventures: [
+      "Bouldering & Climbing Routes",
+      "Milky Way Photography",
+      "Desert Camping",
+      "Hiking Ryan Mountain",
+      "Exploring Abandoned Mines"
+    ],
+    localCuisines: [
+      "Southwest Tacos",
+      "Cactus Smoothies",
+      "Vegan Burritos",
+      "Sun-Dried Tomato Flatbreads",
+      "Chili Verde"
+    ],
+    shopping: [
+      "Crystals & Geodes",
+      "Handcrafted Dreamcatchers",
+      "Desert Photography Prints",
+      "Boho Clothing",
+      "Vintage Records & Decor"
+    ]
+  },
+  {
+    id: 83,
+    name: "Savannah",
+    description: "A romantic Southern city draped in Spanish moss and haunted by history.",
+    about: "Savannah is one of the oldest cities in the U.S., known for its cobblestone streets, oak-lined squares, antebellum architecture, and spooky charm. A mix of elegance and eccentricity, it's perfect for slow strolls and deep dives into history.",
+    lat: 32.0809,
+    lon: -81.0912,
+    climate: "Humid Subtropical",
+    landscape: "Riverside, Historic Cityscape, Park Squares",
+    activities: ["Ghost Tours", "Garden Walks", "Southern Cuisine"],
+    culture: "Gothic Southern Charm",
+    budget: "Medium",
+    localAttractions: [
+      "Forsyth Park",
+      "Bonaventure Cemetery",
+      "River Street",
+      "Wormsloe Historic Site",
+      "Telfair Museums"
+    ],
+    adventures: [
+      "Haunted History Walks",
+      "Riverboat Cruises",
+      "Kayaking the Lowcountry",
+      "Horse-Drawn Carriage Rides",
+      "Biking the Historic District"
+    ],
+    localCuisines: [
+      "Shrimp and Grits",
+      "Fried Green Tomatoes",
+      "Lowcountry Boil",
+      "Sweet Tea & Biscuits",
+      "Pecan Pie"
+    ],
+    shopping: [
+      "Antique Shops",
+      "Southern Boutiques",
+      "Handmade Candles",
+      "Ghost Tour Souvenirs",
+      "Local Art & Embroidery"
+    ]
+  },
+  {
+    id: 84,
+    name: "Badlands",
+    description: "A dramatic wilderness of eroded buttes, fossil beds, and rich prairie ecosystems.",
+    about: "Badlands National Park surprises with its alien rock formations and fossil-rich history. A geologist's dream and a road-tripper's delight, it offers stunning sunsets, wildlife encounters, and wide-open silence under big skies.",
+    lat: 43.8554,
+    lon: -102.3397,
+    climate: "Semi-Arid",
+    landscape: "Canyons, Buttes, Grasslands",
+    activities: ["Fossil Hunting", "Scenic Drives", "Camping"],
+    culture: "Paleo-Western Wilderness",
+    budget: "Low",
+    localAttractions: [
+      "Loop Road",
+      "Fossil Exhibit Trail",
+      "Big Badlands Overlook",
+      "Saddle Pass Trail",
+      "Ben Reifel Visitor Center"
+    ],
+    adventures: [
+      "Sunset Photography",
+      "Backcountry Hiking",
+      "Wild Bison Viewing",
+      "Stargazing in Silence",
+      "Fossil Spotting with Rangers"
+    ],
+    localCuisines: [
+      "Buffalo Burgers",
+      "Cornbread & Beans",
+      "Prairie Stew",
+      "Jerky Snacks",
+      "Campfire S'mores"
+    ],
+    shopping: [
+      "Geology Kits",
+      "Fossil Replicas",
+      "Western Wear",
+      "Native Beadwork",
+      "Park Posters"
+    ]
+  },
+  {
+    id: 85,
+    name: "Catalina Island",
+    description: "A Mediterranean-style getaway just an hour from Los Angeles, famous for turquoise waters and ocean adventures.",
+    about: "Catalina Island offers a surprising escape from the California coast, with snorkeling coves, wildlife-rich hills, and charming seaside villages. Whether you're ziplining over canyons or kayaking with dolphins, it’s a sun-soaked adventure close to the city.",
+    lat: 33.3879,
+    lon: -118.4163,
+    climate: "Coastal Mediterranean",
+    landscape: "Island Shores, Ocean Coves, Steep Cliffs",
+    activities: ["Snorkeling", "Ziplining", "Glass-Bottom Boat Tours"],
+    culture: "Coastal Island Life",
+    budget: "Medium to High",
+    localAttractions: [
+      "Avalon Casino",
+      "Descanso Beach Club",
+      "Wrigley Memorial & Botanic Garden",
+      "Lover’s Cove",
+      "Undersea Expedition Submarine"
+    ],
+    adventures: [
+      "Snorkeling at Casino Point",
+      "Parasailing the Bay",
+      "Hiking the Trans-Catalina Trail",
+      "Ziplining Over the Ocean",
+      "Wild Bison Safari"
+    ],
+    localCuisines: [
+      "Grilled Swordfish",
+      "Island Tacos",
+      "Coconut Shrimp",
+      "Mai Tai Cocktails",
+      "Ice Cream on the Pier"
+    ],
+    shopping: [
+      "Beachwear Boutiques",
+      "Glass Souvenirs",
+      "Seashell Art",
+      "Island Jewelry",
+      "Catalina Maps & Prints"
+    ]
+  },
+  {
+    id: 86,
+    name: "Columbia River Gorge",
+    description: "A lush canyon carved by the mighty Columbia River, brimming with waterfalls, cliffs, and scenic drives.",
+    about: "Straddling the Oregon-Washington border, this gorge is a haven for waterfall chasers, windsurfers, and hikers. With over 90 waterfalls and dramatic basalt cliffs, it’s a Pacific Northwest paradise for nature lovers.",
+    lat: 45.7250,
+    lon: -121.7300,
+    climate: "Temperate Rainforest",
+    landscape: "Canyons, Waterfalls, River Valleys",
+    activities: ["Hiking", "Windsurfing", "Photography"],
+    culture: "Pacific Northwest Outdoor",
+    budget: "Low to Medium",
+    localAttractions: [
+      "Multnomah Falls",
+      "Vista House at Crown Point",
+      "Hood River",
+      "Latourell Falls",
+      "Bridge of the Gods"
+    ],
+    adventures: [
+      "Hiking Eagle Creek Trail",
+      "Windsurfing at Hood River",
+      "Waterfall Hopping",
+      "Scenic Drive on Historic Highway 30",
+      "Kayaking the Columbia River"
+    ],
+    localCuisines: [
+      "Salmon Chowder",
+      "Farm-to-Table Sandwiches",
+      "Craft IPAs",
+      "Berry Cobblers",
+      "Hazelnut Desserts"
+    ],
+    shopping: [
+      "Handmade Outdoor Gear",
+      "Local Art Prints",
+      "Nature Photography",
+      "Trail Maps & Guides",
+      "Columbia River Wine & Cider"
+    ]
+  },
+  {
+    id: 88,
+    name: "Kenai Fjords",
+    description: "A rugged Alaskan park where glaciers meet the sea, alive with whales, icebergs, and dramatic coastline.",
+    about: "Kenai Fjords National Park offers a surreal encounter with Alaskan wilderness, where ice fields, orcas, and towering fjords form a raw and captivating landscape. Accessible by boat or air, it’s a once-in-a-lifetime adventure.",
+    lat: 59.9170,
+    lon: -149.6503,
+    climate: "Subarctic Maritime",
+    landscape: "Glaciers, Fjords, Ice Fields",
+    activities: ["Whale Watching", "Kayaking", "Glacier Tours"],
+    culture: "Alaskan Frontier",
+    budget: "Medium to High",
+    localAttractions: [
+      "Exit Glacier",
+      "Harding Icefield",
+      "Resurrection Bay",
+      "Bear Glacier Lagoon",
+      "Alaska SeaLife Center"
+    ],
+    adventures: [
+      "Glacier Hikes",
+      "Orca Whale Watching Cruises",
+      "Sea Kayaking Among Icebergs",
+      "Helicopter Tours",
+      "Camping on the Coast"
+    ],
+    localCuisines: [
+      "King Crab Legs",
+      "Grilled Halibut",
+      "Smoked Salmon",
+      "Alaskan Reindeer Sausage",
+      "Wild Berry Jam"
+    ],
+    shopping: [
+      "Inuit-Inspired Carvings",
+      "Alaskan Gold Jewelry",
+      "Marine Wildlife Art",
+      "Cold Weather Gear",
+      "Local Fish Jerky"
+    ]
+  },
+  {
+    id: 89,
+    name: "Great Basin",
+    description: "A remote and diverse Nevada park boasting alpine peaks, ancient bristlecone pines, and starlit skies.",
+    about: "Great Basin National Park is an underrated gem where you can climb to alpine lakes, explore marble caves, and stargaze in some of the darkest skies in the U.S. It’s quiet, diverse, and deeply connected to the land.",
+    lat: 38.9833,
+    lon: -114.3050,
+    climate: "High Desert",
+    landscape: "Mountains, Caves, Desert",
+    activities: ["Caving", "Hiking", "Astronomy"],
+    culture: "Desert Wilderness",
+    budget: "Low",
+    localAttractions: [
+      "Lehman Caves",
+      "Wheeler Peak",
+      "Bristlecone Pine Grove",
+      "Stella Lake",
+      "Baker Archeological Site"
+    ],
+    adventures: [
+      "Cave Tours",
+      "Summiting Wheeler Peak",
+      "Astronomy Programs",
+      "Alpine Lake Hikes",
+      "Wildflower Spotting"
+    ],
+    localCuisines: [
+      "Mountain Berry Pie",
+      "Nevada Chili",
+      "Dutch Oven Bread",
+      "Grilled Trout",
+      "Desert Honey Snacks"
+    ],
+    shopping: [
+      "Astronomy Gear",
+      "Park Patch Collectibles",
+      "Desert-Scented Candles",
+      "Star Maps",
+      "Handmade Pottery"
+    ]
+  },
+  {
+    id: 90,
+    name: "Oak Alley Plantation",
+    description: "A grand antebellum estate framed by a tunnel of 300-year-old oak trees, echoing the deep history of the South.",
+    about: "Located along the Mississippi River, Oak Alley is as much a symbol of beauty as it is of the complex Southern past. Tour its iconic alley, restored mansion, and powerful exhibits on slavery and plantation life.",
+    lat: 30.0060,
+    lon: -90.7803,
+    climate: "Humid Subtropical",
+    landscape: "Riverbank, Gardens, Historic Grounds",
+    activities: ["Historical Tours", "Photography", "Cultural Reflection"],
+    culture: "Antebellum Southern",
+    budget: "Low to Medium",
+    localAttractions: [
+      "Oak Alley Mansion Tour",
+      "Slave Memorial Exhibit",
+      "Mississippi River Overlook",
+      "Historic Gardens",
+      "On-site Restaurant & Gift Shop"
+    ],
+    adventures: [
+      "Guided Plantation Walks",
+      "Riverboat Sightseeing",
+      "Cane Syrup Demonstrations",
+      "Photography of Oak Tunnel",
+      "Evening Ghost Tours"
+    ],
+    localCuisines: [
+      "Gumbo",
+      "Pecan-Crusted Catfish",
+      "Cajun Crawfish Etouffee",
+      "Bread Pudding",
+      "Sweet Tea & Beignets"
+    ],
+    shopping: [
+      "Civil War Memorabilia",
+      "Southern Cookbooks",
+      "Creole Seasonings",
+      "Historical Replica Tools",
+      "Handmade Quilts"
+    ]
+  },
+  {
+    id: 91,
+    name: "Apostle Islands",
+    description: "A stunning cluster of Lake Superior islands known for sea caves, pristine waters, and wilderness escapes.",
+    about: "Located off the northern tip of Wisconsin, Apostle Islands National Lakeshore includes 21 islands featuring dramatic sea caves, historic lighthouses, sandy beaches, and some of the clearest waters in the Midwest. Ideal for kayaking and backcountry camping.",
+    lat: 46.9906,
+    lon: -90.6620,
+    climate: "Cool Continental",
+    landscape: "Islands, Sea Caves, Great Lake Shorelines",
+    activities: ["Kayaking", "Camping", "Boating"],
+    culture: "Great Lakes Maritime",
+    budget: "Medium",
+    localAttractions: [
+      "Meyers Beach Sea Caves",
+      "Devils Island Lighthouse",
+      "Sand Island",
+      "Bayfield Maritime Museum",
+      "Stockton Island Hiking Trails"
+    ],
+    adventures: [
+      "Kayak Through Ice Caves (Winter)",
+      "Camp on Sand Island",
+      "Sailing Among the Islands",
+      "Snorkeling Shipwreck Sites",
+      "Hike the Julian Bay Trail"
+    ],
+    localCuisines: [
+      "Whitefish Tacos",
+      "Wild Rice Soup",
+      "Cheddar Bratwurst",
+      "Fried Cheese Curds",
+      "Blueberry Pancakes"
+    ],
+    shopping: [
+      "Handmade Canoe Paddles",
+      "Lighthouse Souvenirs",
+      "Locally Smoked Fish",
+      "Artisan Berry Jams",
+      "Maritime Maps"
+    ]
+  },
+  {
+    id: 92,
+    name: "Tallgrass Prairie National Preserve",
+    description: "A rare and breathtaking stretch of America’s historic tallgrass prairie, filled with wildflowers and bison.",
+    about: "Located in the Flint Hills of Kansas, this preserve protects one of the last remaining expanses of tallgrass prairie in the world. Visitors can witness herds of bison, explore historic ranch buildings, and hike through endless golden grasses.",
+    lat: 38.4335,
+    lon: -96.5586,
+    climate: "Continental Grassland",
+    landscape: "Prairies, Rolling Hills, Open Plains",
+    activities: ["Wildlife Viewing", "Hiking", "Ranch Tours"],
+    culture: "American Heartland",
+    budget: "Low",
+    localAttractions: [
+      "Fox Creek Trail",
+      "Spring Hill Ranch",
+      "Bison Herd Viewing",
+      "Z-Bar Ranch House",
+      "Prairie Flower Meadows"
+    ],
+    adventures: [
+      "Ranger-led Prairie Hikes",
+      "Sunset Photography on the Prairie",
+      "Wildflower Identification",
+      "Self-Guided Bison Loop",
+      "Birdwatching Rare Prairie Species"
+    ],
+    localCuisines: [
+      "Kansas BBQ Ribs",
+      "Chicken-Fried Steak",
+      "Buttermilk Biscuits",
+      "Prairie Honey",
+      "Sweet Cornbread"
+    ],
+    shopping: [
+      "Prairie-Themed Art",
+      "Bison Figurines",
+      "Cowboy Hats",
+      "Field Guides",
+      "Local Farm Jams"
+    ]
+  },
+  {
+    id: 93,
+    name: "North Cascades",
+    description: "A wilderness of jagged peaks, icy glaciers, and dense forests often called the 'American Alps'.",
+    about: "North Cascades National Park is one of the most rugged and remote national parks in the U.S., offering alpine lakes, over 300 glaciers, and stunning backcountry solitude. It's ideal for hikers, mountaineers, and those looking to get off the grid.",
+    lat: 48.7718,
+    lon: -121.2985,
+    climate: "Alpine Temperate",
+    landscape: "Glacial Mountains, Forests, Alpine Lakes",
+    activities: ["Hiking", "Climbing", "Camping"],
+    culture: "Pacific Northwest Wilderness",
+    budget: "Medium",
+    localAttractions: [
+      "Diablo Lake",
+      "Cascade Pass",
+      "Mount Shuksan",
+      "Washington Pass Overlook",
+      "Ross Lake"
+    ],
+    adventures: [
+      "Backpacking the Copper Ridge Loop",
+      "Glacier Hiking",
+      "Kayaking Diablo Lake",
+      "High Mountain Climbing Expeditions",
+      "Ranger Talks at Newhalem"
+    ],
+    localCuisines: [
+      "Foraged Berry Pastries",
+      "Fresh-Caught Trout",
+      "Mushroom Soups",
+      "Campfire Coffee",
+      "Smoked Salmon Sandwiches"
+    ],
+    shopping: [
+      "Trail Maps & Topos",
+      "Wildflower Photography Books",
+      "Camping Gear",
+      "Eco-Friendly Apparel",
+      "Glacier Postcards"
+    ]
+  },
+  {
+    id: 94,
+    name: "Beaufort",
+    description: "A sleepy Southern coastal town known for antebellum mansions, Spanish moss, and Lowcountry charm.",
+    about: "Nestled on the coast of South Carolina, Beaufort boasts historic homes, Gullah heritage, and access to stunning Sea Islands. It’s a peaceful destination for history lovers, seafood fans, and sunset seekers.",
+    lat: 32.4316,
+    lon: -80.6698,
+    climate: "Humid Subtropical",
+    landscape: "Rivers, Marshlands, Coastal Islands",
+    activities: ["Historic Tours", "Fishing", "Kayaking"],
+    culture: "Lowcountry Southern",
+    budget: "Low to Medium",
+    localAttractions: [
+      "Hunting Island State Park",
+      "Beaufort Historic District",
+      "Penn Center on St. Helena Island",
+      "Spanish Moss Trail",
+      "Waterfront Park"
+    ],
+    adventures: [
+      "Kayaking through Tidal Creeks",
+      "Fishing Charters in Port Royal Sound",
+      "Gullah Heritage Tours",
+      "Sunset Dolphin Cruises",
+      "Horse-Drawn Carriage Rides"
+    ],
+    localCuisines: [
+      "Shrimp & Grits",
+      "Lowcountry Boil",
+      "Fried Green Tomatoes",
+      "Oyster Po' Boys",
+      "Sweet Tea Ice Cream"
+    ],
+    shopping: [
+      "Sea Island Baskets",
+      "Gullah Art",
+      "Handcrafted Shell Jewelry",
+      "Southern Literature",
+      "Antique Maritime Finds"
+    ]
+  },
+  {
+    id: 95,
+    name: "Blackwater Falls State Park",
+    description: "A scenic Appalachian park named for its amber-colored waterfall surrounded by forested canyons.",
+    about: "This West Virginia gem features the iconic Blackwater Falls, deep gorges, and misty forests that burst into color each autumn. A haven for hikers, photographers, and anyone drawn to tranquil natural beauty.",
+    lat: 39.1301,
+    lon: -79.4952,
+    climate: "Appalachian Highland",
+    landscape: "Waterfalls, Forested Mountains, Gorges",
+    activities: ["Hiking", "Photography", "Fishing"],
+    culture: "Appalachian",
+    budget: "Low",
+    localAttractions: [
+      "Blackwater Falls",
+      "Elakala Falls",
+      "Pendleton Point Overlook",
+      "Lindy Point Trail",
+      "Blackwater Canyon"
+    ],
+    adventures: [
+      "Photographing the Falls",
+      "Autumn Foliage Hikes",
+      "Cross-Country Skiing (Winter)",
+      "Mountain Biking Trails",
+      "Paddle Boating on Pendleton Lake"
+    ],
+    localCuisines: [
+      "Cornbread & Beans",
+      "Maple Pecan Pie",
+      "Appalachian Trout",
+      "Country Ham Biscuits",
+      "Homestyle Apple Butter"
+    ],
+    shopping: [
+      "Local Honey Jars",
+      "Hand-Knitted Wool Goods",
+      "Nature Photography Prints",
+      "West Virginia Pottery",
+      "Blackwater Falls Souvenirs"
+    ]
+  },
+  {
+    id: 96,
+    name: "Lassen Volcanic National Park",
+    description: "A unique geothermal landscape with steaming fumaroles, boiling springs, and an active volcano.",
+    about: "Located in Northern California, Lassen is one of the few places on Earth where all four types of volcanoes can be found. This lesser-known gem offers geothermal wonders, alpine lakes, and stunning volcanic hikes without the crowds.",
+    lat: 40.4977,
+    lon: -121.4207,
+    climate: "High Mountain",
+    landscape: "Volcanic Peaks, Hydrothermal Areas, Forests",
+    activities: ["Hiking", "Geothermal Tours", "Stargazing"],
+    culture: "West Coast Natural History",
+    budget: "Low to Medium",
+    localAttractions: [
+      "Bumpass Hell Geothermal Area",
+      "Lassen Peak Trail",
+      "Boiling Springs Lake",
+      "Manzanita Lake",
+      "Devastated Area Interpretive Trail"
+    ],
+    adventures: [
+      "Climb Lassen Peak",
+      "Explore Hydrothermal Pools",
+      "Snowshoe in Winter",
+      "Camp Under Dark Skies",
+      "Wildflower Hikes in Summer"
+    ],
+    localCuisines: [
+      "Campfire Chili",
+      "California Trail Mix",
+      "Sourdough Sandwiches",
+      "Pine Nut Cookies",
+      "Mountain Berry Jam"
+    ],
+    shopping: [
+      "Volcano Science Kits",
+      "Geode Souvenirs",
+      "Lassen NP Patches",
+      "Trail Guides",
+      "Local Handcrafted Pottery"
+    ]
+  },
+  {
+    id: 97,
+    name: "Amelia Island",
+    description: "A peaceful coastal retreat with rich history, pristine beaches, and charming Southern hospitality.",
+    about: "Located in northeastern Florida, Amelia Island offers 13 miles of beaches, historic sites, and luxury resorts. Known for its Gilded Age mansions and pirate lore, it’s a blend of elegance and laid-back beach vibes.",
+    lat: 30.6697,
+    lon: -81.4626,
+    climate: "Humid Subtropical",
+    landscape: "Beaches, Marshes, Historic Towns",
+    activities: ["Beachcombing", "Horseback Riding", "Historic Tours"],
+    culture: "Southern Coastal",
+    budget: "Medium to High",
+    localAttractions: [
+      "Fernandina Beach Historic District",
+      "Fort Clinch State Park",
+      "Main Beach Park",
+      "Amelia Island Lighthouse",
+      "Egans Creek Greenway"
+    ],
+    adventures: [
+      "Horseback Riding on the Beach",
+      "Paddleboarding in Salt Marshes",
+      "Sunset Sailing Cruise",
+      "Pirate-Themed Ghost Tours",
+      "Shell Collecting on Quiet Shores"
+    ],
+    localCuisines: [
+      "Shrimp & Grits",
+      "Fried Conch",
+      "Key Lime Pie",
+      "Southern Peach Cobbler",
+      "Blackened Grouper Sandwich"
+    ],
+    shopping: [
+      "Seashell Jewelry",
+      "Pirate Memorabilia",
+      "Vintage Nautical Maps",
+      "Handmade Soaps",
+      "Southern Cookbooks"
+    ]
+  },
+  {
+    id: 98,
+    name: "Palo Duro Canyon",
+    description: "The second-largest canyon in the U.S., offering striking rock formations and rugged outdoor adventures.",
+    about: "Often called the 'Grand Canyon of Texas', Palo Duro is a dramatic canyon system located in the Texas Panhandle. With colorful mesas, hoodoos, and outdoor drama performances, it’s a Southwestern gem.",
+    lat: 34.9370,
+    lon: -101.6437,
+    climate: "Semi-Arid",
+    landscape: "Canyons, Rock Formations, Desert Shrublands",
+    activities: ["Hiking", "Horseback Riding", "Camping"],
+    culture: "Texas Frontier",
+    budget: "Low to Medium",
+    localAttractions: [
+      "Lighthouse Rock Trail",
+      "Texas Musical Drama",
+      "CCC-built Cabins",
+      "Canyon Gallery & Visitor Center",
+      "Cow Camp Cabins"
+    ],
+    adventures: [
+      "Hike to the Lighthouse Rock",
+      "Ziplining Over the Canyon",
+      "Evening Campfire Cowboy Tales",
+      "Horseback Trail Rides",
+      "Mountain Biking Red Clay Trails"
+    ],
+    localCuisines: [
+      "Texas BBQ Brisket",
+      "Chili with Cornbread",
+      "Smoked Turkey Legs",
+      "Pecan Pie",
+      "Sweet Iced Tea"
+    ],
+    shopping: [
+      "Western Cowboy Hats",
+      "Hand-tooled Leather Belts",
+      "Canyon Landscape Art",
+      "Local Jerky Packs",
+      "Route 66 Memorabilia"
+    ]
+  },
+  {
+    id: 99,
+    name: "Sleeping Bear Dunes",
+    description: "Towering sand dunes, turquoise lakes, and forested bluffs on the shores of Lake Michigan.",
+    about: "Located along the northwest coast of Michigan’s Lower Peninsula, this national lakeshore features dramatic dunes, crystal-clear waters, and lush hiking trails. A family-friendly and visually stunning retreat.",
+    lat: 44.8806,
+    lon: -86.0181,
+    climate: "Great Lakes Temperate",
+    landscape: "Sand Dunes, Forests, Freshwater Beaches",
+    activities: ["Hiking", "Dune Climbing", "Swimming"],
+    culture: "Great Lakes Outdoor Life",
+    budget: "Low to Medium",
+    localAttractions: [
+      "Dune Climb",
+      "Pierce Stocking Scenic Drive",
+      "Glen Haven Historic Village",
+      "Empire Bluff Trail",
+      "Sleeping Bear Point"
+    ],
+    adventures: [
+      "Run Down the Dunes",
+      "Kayaking Crystal River",
+      "Drive the Scenic Loop",
+      "Snorkeling in Lake Michigan",
+      "Star Gazing from the Bluff"
+    ],
+    localCuisines: [
+      "Traverse City Cherry Pie",
+      "Whitefish Sandwiches",
+      "Maple Syrup Pancakes",
+      "Freshwater Perch Tacos",
+      "Homemade Ice Cream"
+    ],
+    shopping: [
+      "Petoskey Stone Jewelry",
+      "Lakeshore Apparel",
+      "Cherry Jams and Salsas",
+      "Beach Toys & Souvenirs",
+      "Photography Prints"
+    ]
+  },
+  {
+    id: 100,
+    name: "Valley of Fire",
+    description: "A fiery red desert landscape of sandstone formations, petroglyphs, and surreal rock shapes.",
+    about: "Located just northeast of Las Vegas, Valley of Fire is Nevada’s oldest and most stunning state park. Known for dramatic rock formations like Fire Wave and Elephant Rock, it’s a dream for hikers and photographers.",
+    lat: 36.4854,
+    lon: -114.5346,
+    climate: "Mojave Desert",
+    landscape: "Red Sandstone Formations, Desert Vistas, Slot Canyons",
+    activities: ["Hiking", "Photography", "Rock Climbing"],
+    culture: "Ancient Native American",
+    budget: "Low",
+    localAttractions: [
+      "Fire Wave Trail",
+      "Elephant Rock",
+      "Atlatl Rock Petroglyphs",
+      "White Domes Trail",
+      "Mouse’s Tank Canyon"
+    ],
+    adventures: [
+      "Sunrise Hike to Fire Wave",
+      "Discover Petroglyphs",
+      "Photography at Golden Hour",
+      "Slot Canyon Exploring",
+      "Desert Stargazing"
+    ],
+    localCuisines: [
+      "Campfire Nachos",
+      "Dried Fruit Trail Mix",
+      "BBQ Jackfruit Wraps",
+      "Chili Dogs",
+      "Cactus Candy"
+    ],
+    shopping: [
+      "Desert-Inspired Jewelry",
+      "Geology & Petroglyph Books",
+      "Postcards of Rock Formations",
+      "Local Artisan Pottery",
+      "Hiking Bandanas"
+    ]
   },  
 ];
