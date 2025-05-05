@@ -6,11 +6,11 @@ export default function Navbar() {
 
   return (
     <nav className="bg-white shadow sticky top-0 z-50">
-      <div className="max-w-7xl mx-auto px-4 py-3 flex justify-between items-center">
-        <Link href="/" className="text-2xl font-bold text-blue-600">
-          🌐 Destinova
+      <div className="max-w-9xl mx-auto px-4 py-3 flex justify-between items-center">
+        <Link href="/" className="text-3xl ml-10 mr-10 font-bold text-blue-600">
+          Destinova
         </Link>
-        <div className="flex gap-3 text-sm font-medium items-center">
+        <div className="flex gap-5 text-sm mr-10 font-medium items-center">
           <Link href="/browse" className="hover:text-blue-600 transition">Browse</Link>
           <Link href="/recommendations" className="hover:text-blue-600 transition">Recommendations</Link>
           <Link href="/favorites" className="hover:text-blue-600 transition">Favorites</Link>
@@ -22,7 +22,7 @@ export default function Navbar() {
             </>
           ) : (
             <>
-              <span className="text-gray-700 text-sm">Hi, {session.user?.email}</span>
+              <span className="text-gray-700 text-md">Hi, {session.user?.email}</span>
               <button
                 onClick={() => signOut()}
                 className="bg-red-500 hover:bg-red-600 text-white px-3 py-1 rounded transition"
